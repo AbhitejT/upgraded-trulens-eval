@@ -1,0 +1,30 @@
+# Core dependencies
+python-dotenv==1.0.0
+openai==1.3.0
+llama-index==0.12.46
+llama-index-core==0.12.46
+llama-index-embeddings-openai==0.3.1
+llama-index-llms-openai==0.4.12
+llama-index-multi-modal-llms-openai==0.4.12
+llama-index-readers-file==0.1.6
+
+# TruLens evaluation framework
+trulens-eval==0.25.0
+trulens-providers-openai==0.1.0
+trulens-apps-llamaindex==0.1.0
+
+# PDF processing
+pypdf==4.0.1
+PyMuPDF==1.23.8
+pdf2image==1.17.0
+
+# Image processing
+Pillow==10.1.0
+numpy==1.24.3
+
+# OCR and vision
+easyocr==1.7.2
+pytesseract==0.3.10
+
+# Data handling
+pandas==2.0.3
